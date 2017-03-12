@@ -1,0 +1,45 @@
+.header{
+
+	border: 2px solid blue;
+	width: 100%;
+	margin: 5px;
+	padding: 10px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+
+.logo{
+	width: 3%;
+	border: 2px solid red;
+	box-sizing: border-box;
+	float: left;
+}
+.menu{
+	width: 33.3%
+	border: 2px solid blue;
+	margin: 0px;
+	padding: 0px;
+	display: inline-block;
+	border: 2px solid red;
+	box-sizing: border-box;
+	float: right;
+}
+.slider{
+	width: 100%;
+	height: 200px;
+	border: 2px solid blue;
+	margin: 5px;
+	padding: 0px;
+	display: inline-block;
+	box-sizing: border-box;
+}
+.news{
+	width: 400px;
+	height: 500px;
+	border:2px solid green;
+	box-sizing: border-box;
+	margin: 5px;
+	padding: 0px;
+	display: inline-block;
+	overflow: hidden;
+}
